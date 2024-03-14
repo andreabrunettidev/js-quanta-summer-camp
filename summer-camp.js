@@ -1,4 +1,6 @@
-// 2024-03-14 12:00
+//Quanta Summer Camp - update: 2024.03.14 12:00
+// by andreabrunetti.dev
+
 var Yi = Object.defineProperty;
 var Ki = (i, e, o) =>
   e in i
